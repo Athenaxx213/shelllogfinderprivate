@@ -1,0 +1,2 @@
+# shelllogfinderprivate
+batalyonorduya özel 
